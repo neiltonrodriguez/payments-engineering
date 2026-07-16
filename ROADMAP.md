@@ -1,266 +1,275 @@
-FASE 1 — Fundamentos Financeiros
-
-Objetivo: entender por que os pagamentos existem.
-
-Módulo 1 — História do Dinheiro
-Escambo
-Moedas
-Ouro
-Papel-moeda
-Bancos
-Dinheiro eletrônico
-Dinheiro digital
-Módulo 2 — Sistema Financeiro Mundial
-Bancos Centrais
-Sistema bancário
-Liquidação financeira
-Reservas bancárias
-Clearing
-Settlement
-SWIFT
-Módulo 3 — Sistema Financeiro Brasileiro
-CMN
-Banco Central
-SPB
-STR
-SPI
-Selic
-CIP
-Módulo 4 — Instituições Financeiras
-Banco
-IP
-SCD
-SEP
-Cooperativas
-Corretoras
-Fintechs
-Módulo 5 — Ecossistema de Pagamentos
-Merchant
-Cliente
-PSP
-Gateway
-Acquirer
-Issuer
-Bandeiras
-Marketplace
-FASE 2 — Meios de Pagamento
-
-Objetivo: dominar cada instrumento de pagamento.
-
-Módulo 6 — Cartões
-Módulo 7 — PIX
-Módulo 8 — Boletos
-Módulo 9 — Débito em Conta
-Módulo 10 — Carteiras Digitais
-Apple Pay
-Google Pay
-Samsung Pay
-Click to Pay
-Módulo 11 — Pagamentos Internacionais
-Cross Border
-FX
-Multi-moeda
-DCC
-FASE 3 — Processamento de Pagamentos
+# Índice de Conteúdo — Formação em Pagamentos
 
-Objetivo: entender o ciclo completo de uma transação.
+## FASE 1 — Fundamentos Financeiros
 
-Módulo 12 — Ciclo de Vida da Transação
-Módulo 13 — Autorização
-Módulo 14 — Captura
-Módulo 15 — Cancelamentos
-Void
-Reversal
-Módulo 16 — Liquidação
-Módulo 17 — Conciliação
-Módulo 18 — Estornos
-Refund
-Charge Reversal
-Módulo 19 — Recorrência
-Assinaturas
-Retry
-Smart Retry
-Card Updater
-FASE 4 — Infraestrutura de Pagamentos
+**Objetivo:** entender por que os pagamentos existem.
 
-Objetivo: entender quem faz o quê.
+### Módulo 1 — História do Dinheiro
+- Escambo
+- Moedas
+- Ouro
+- Papel-moeda
+- Bancos
+- Dinheiro eletrônico
+- Dinheiro digital
 
-Módulo 20 — Gateways
+### Módulo 2 — Sistema Financeiro Mundial
+- Bancos Centrais
+- Sistema bancário
+- Liquidação financeira
+- Reservas bancárias
+- Clearing
+- Settlement
+- SWIFT
 
-Braspag
+### Módulo 3 — Sistema Financeiro Brasileiro
+- CMN
+- Banco Central
+- SPB
+- STR
+- SPI
+- Selic
+- CIP
 
-Adyen
+### Módulo 4 — Instituições Financeiras
+- Banco
+- IP
+- SCD
+- SEP
+- Cooperativas
+- Corretoras
+- Fintechs
 
-CyberSource
+### Módulo 5 — Ecossistema de Pagamentos
+- Merchant
+- Cliente
+- PSP
+- Gateway
+- Acquirer
+- Issuer
+- Bandeiras
+- Marketplace
 
-Módulo 21 — Adquirentes
+---
 
-Rede
+## FASE 2 — Meios de Pagamento
 
-Getnet
+**Objetivo:** dominar cada instrumento de pagamento.
 
-Fiserv
+### Módulo 6 — Cartões
 
-BS2
+### Módulo 7 — PIX
 
-Entrepay
+### Módulo 8 — Boletos
 
-Módulo 22 — Bandeiras
+### Módulo 9 — Débito em Conta
 
-Visa
+### Módulo 10 — Carteiras Digitais
+- Apple Pay
+- Google Pay
+- Samsung Pay
+- Click to Pay
 
-Mastercard
+### Módulo 11 — Pagamentos Internacionais
+- Cross Border
+- FX
+- Multi-moeda
+- DCC
 
-Elo
+---
 
-Amex
+## FASE 3 — Processamento de Pagamentos
 
-Hipercard
+**Objetivo:** entender o ciclo completo de uma transação.
 
-Módulo 23 — Emissores
-Módulo 24 — Processadoras
-Módulo 25 — PSPs
+### Módulo 12 — Ciclo de Vida da Transação
 
-Stripe
+### Módulo 13 — Autorização
 
-Adyen
+### Módulo 14 — Captura
 
-Pagar.me
+### Módulo 15 — Cancelamentos
+- Void
+- Reversal
 
-Mercado Pago
+### Módulo 16 — Liquidação
 
-Parcelamos Tudo (modelo de negócio)
+### Módulo 17 — Conciliação
 
-FASE 5 — Segurança
+### Módulo 18 — Estornos
+- Refund
+- Charge Reversal
 
-Objetivo: entender por que uma transação é considerada segura.
+### Módulo 19 — Recorrência
+- Assinaturas
+- Retry
+- Smart Retry
+- Card Updater
 
-Módulo 26 — PCI DSS
-Módulo 27 — EMV
-Módulo 28 — Tokenização
+---
 
-Merchant Token
+## FASE 4 — Infraestrutura de Pagamentos
 
-Network Token
+**Objetivo:** entender quem faz o quê.
 
-Apple Pay
+### Módulo 20 — Gateways
+- Braspag
+- Adyen
+- CyberSource
 
-Google Pay
+### Módulo 21 — Adquirentes
+- Rede
+- Getnet
+- Fiserv
+- BS2
+- Entrepay
 
-Módulo 29 — 3DS
-Módulo 30 — Antifraude
+### Módulo 22 — Bandeiras
+- Visa
+- Mastercard
+- Elo
+- Amex
+- Hipercard
 
-ClearSale
+### Módulo 23 — Emissores
 
-Konduto
+### Módulo 24 — Processadoras
 
-Risk Engine
+### Módulo 25 — PSPs
+- Stripe
+- Adyen
+- Pagar.me
+- Mercado Pago
 
-Velocity
+---
 
-Device Fingerprint
+## FASE 5 — Segurança
 
-Behavior
+**Objetivo:** entender por que uma transação é considerada segura.
 
-Módulo 31 — Criptografia
+### Módulo 26 — PCI DSS
 
-HSM
+### Módulo 27 — EMV
 
-DUKPT
+### Módulo 28 — Tokenização
+- Merchant Token
+- Network Token
+- Apple Pay
+- Google Pay
 
-PIN
+### Módulo 29 — 3DS
 
-CVV
+### Módulo 30 — Antifraude
+- ClearSale
+- Konduto
+- Risk Engine
+- Velocity
+- Device Fingerprint
+- Behavior
 
-PAN
+### Módulo 31 — Criptografia
+- HSM
+- DUKPT
+- PIN
+- CVV
+- PAN
+- BIN
 
-BIN
+---
 
-FASE 6 — Negócio
+## FASE 6 — Negócio
 
-Objetivo: entender como o dinheiro circula.
+**Objetivo:** entender como o dinheiro circula.
 
-Módulo 32 — MDR
-Módulo 33 — Interchange
-Módulo 34 — Assessment
-Módulo 35 — Chargeback
+### Módulo 32 — MDR
 
-Reason Codes
+### Módulo 33 — Interchange
 
-Representment
+### Módulo 34 — Assessment
 
-Arbitration
+### Módulo 35 — Chargeback
+- Reason Codes
+- Representment
+- Arbitration
+- Pre-Arbitration
 
-Pre-Arbitration
+### Módulo 36 — Split
+- Marketplace
+- Subadquirência
 
-Módulo 36 — Split
+### Módulo 37 — Cashback
 
-Marketplace
+### Módulo 38 — Programas de Fidelidade
 
-Subadquirência
+---
 
-Módulo 37 — Cashback
-Módulo 38 — Programas de Fidelidade
-FASE 7 — Regulatório
+## FASE 7 — Regulatório
 
-Objetivo: entender por que existem tantas regras.
+**Objetivo:** entender por que existem tantas regras.
 
-Módulo 39 — Banco Central
-Módulo 40 — ABECS
-Módulo 41 — Open Finance
-Módulo 42 — LGPD
-Módulo 43 — KYC / KYB / AML
-Módulo 44 — Compliance
-FASE 8 — Arquitetura
+### Módulo 39 — Banco Central
 
-Objetivo: aprender a construir plataformas de pagamento.
+### Módulo 40 — ABECS
 
-Módulo 45 — Payment Gateway
-Módulo 46 — PSP
-Módulo 47 — Ledger
-Módulo 48 — Reconciliação
-Módulo 49 — Event Driven Payments
-Módulo 50 — Escalabilidade
+### Módulo 41 — Open Finance
 
-Idempotência
+### Módulo 42 — LGPD
 
-Retry
+### Módulo 43 — KYC / KYB / AML
 
-Outbox
+### Módulo 44 — Compliance
 
-Sagas
+---
 
-Circuit Breaker
+## FASE 8 — Arquitetura
 
-FASE 9 — Estudos de Caso
+**Objetivo:** aprender a construir plataformas de pagamento.
 
-Objetivo: entender empresas reais.
+### Módulo 45 — Payment Gateway
 
-Módulo 51
+### Módulo 46 — PSP
 
-Análise completa da arquitetura de:
+### Módulo 47 — Ledger
 
-Stripe
-Adyen
-Mercado Pago
-Stone
-Nubank
-Braspag
-MadeiraMadeira (abstraindo informações confidenciais)
-Parcelamos Tudo (abstraindo informações confidenciais)
-FASE 10 — Especialista
-Módulo 52
+### Módulo 48 — Reconciliação
 
-Projeto Final
+### Módulo 49 — Event Driven Payments
+
+### Módulo 50 — Escalabilidade
+- Idempotência
+- Retry
+- Outbox
+- Sagas
+- Circuit Breaker
+
+---
+
+## FASE 9 — Estudos de Caso
+
+**Objetivo:** entender empresas reais.
+
+### Módulo 51 — Análise completa da arquitetura de:
+- Stripe
+- Adyen
+- Mercado Pago
+- Stone
+- Nubank
+- Braspag
+
+---
+
+## FASE 10 — Especialista
+
+### Módulo 52 — Projeto Final
 
 Você projetará, do zero:
 
-um PSP;
-um Gateway;
-um Ledger;
-um Motor Antifraude;
-um sistema de Split;
-um sistema de Conciliação;
-um sistema de Recorrência;
-um sistema de Chargeback;
-um sistema de Cashback.
+- um PSP;
+- um Gateway;
+- um Ledger;
+- um Motor Antifraude;
+- um sistema de Split;
+- um sistema de Conciliação;
+- um sistema de Recorrência;
+- um sistema de Chargeback;
+- um sistema de Cashback.
