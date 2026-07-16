@@ -8,7 +8,7 @@ Explique, com suas palavras, por que o escambo não escala para uma economia mod
 
 Imagine que o dinheiro deixasse de existir amanhã.
 
-Como a MadeiraMadeira conseguiria vender um armário de R$ 3.000?
+Como um ecommerce conseguiria vender um armário de R$ 3.000?
 
 Quais problemas surgiriam?
 
