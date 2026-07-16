@@ -1,4 +1,4 @@
-# Payment Engineering
+# Payment Engineering Body of Knowledge (PEBoK)
 
 Uma especialização completa em Engenharia de Pagamentos.
 
